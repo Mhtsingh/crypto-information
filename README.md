@@ -11,7 +11,6 @@ In home page with every currency it can be check either a particular crypto is i
 - CoinGecko - Using coinGecko API to get all the information related to crypto currency. 
 
 
-![Uploading Capture.PNG…]()
 
 
 Demo- https://cryptoinfoeu.netlify.app/
