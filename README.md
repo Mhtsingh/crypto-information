@@ -1,7 +1,7 @@
 # Crypto information
 This website give information about the price of all availbel crypto currency available in the market.
 We can check the history performance of a particluar coin in last 24 Hours, 30 Days, 3 months and 1 year.
-Currency price can be shown in Euro and USD. Use can change it from the drop down from the header.
+Currency price can be shown in Euro and USD. User can change it from the drop down from the header.
 In home page with every currency it can be check either a particular crypto is in profit or loss in last 24 hr.
 
 # Tech Stack
